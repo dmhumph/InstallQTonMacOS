@@ -1,4 +1,4 @@
-# InstallQTonMacOS
+# Install QT on MacOS
 
 ## First Install Brew
 First you will need to have Homebrew installed on you mac.  You can find information about installing Homebrew [here](https://brew.sh/)
